@@ -85,6 +85,3 @@ The project is divided into two main parts:
 - Open-source ROS community (DepthAI, TurtleBot3, ROS Wiki).  
 
 ---
-
-## 📜 License
-This project is open-sourced under the **MIT License**.
