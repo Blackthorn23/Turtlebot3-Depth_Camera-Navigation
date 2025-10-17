@@ -1,4 +1,4 @@
-# ROS TurtleBot3 and RGB-D Camera Integration
+# 2D-Lidar and RGB-D Camera Integration For Mapping
 
 This repository documents my internship project at **ZTE – Multimedia University (MMU)**, where I integrated an **RGB-D depth camera** with a **TurtleBot3 (TB3)** robot using ROS. The project demonstrates how to combine LiDAR-based mapping with RGB-D vision for both **static mapping** and **dynamic 3D perception** during autonomous navigation.
 
